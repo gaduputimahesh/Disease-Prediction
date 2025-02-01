@@ -94,7 +94,7 @@ To run this project locally, follow these steps:
 
 ## Results
 
-The model achieved an accuracy of **X%** (replace with actual value). Various evaluation metrics such as precision, recall, and F1-score were used to assess performance.
+The model achieved an accuracy of 75%. Various evaluation metrics such as precision, recall, and F1-score were used to assess performance.
 
 ## Contributions
 
