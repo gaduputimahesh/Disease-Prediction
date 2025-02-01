@@ -1,5 +1,8 @@
 # Diabetes  disease Prediction 
 
+Smart Healthcare Assistant for Disease Prediction and Management
+Using Diabetes Dataset for Predictive Analytics
+
 ## Overview
 
 This project aims to predict the risk of diabetes using machine learning techniques. It utilizes a dataset containing various health metrics such as glucose levels, BMI, blood pressure, age, and insulin levels. The system helps healthcare professionals in early detection and prevention of diabetes.
