@@ -1,4 +1,4 @@
-# *Diabetes  disease Prediction 
+# Diabetes  disease Prediction 
 
 ## Overview
 
