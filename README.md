@@ -49,20 +49,26 @@ Below are some key visualizations generated during Exploratory Data Analysis:
 
 ### Data Distribution
 
+![diabetes_plot_2](https://github.com/user-attachments/assets/3ad8681c-06e3-4064-ade5-a64780398333)
 
 
 
 ### Correlation Heatmap
 
+![diabetes_plot_3](https://github.com/user-attachments/assets/01c45ad4-f4e0-4b42-8cfb-35a6c0b7e1b2)
+
 
 
 ### Pair Plots
 
+![diabetes_plot_4 (1)](https://github.com/user-attachments/assets/cee7d5cc-49da-4ce4-a64d-48c28252ab42)
 
 
 ### Model Performance
 
+![diabetes_plot_5](https://github.com/user-attachments/assets/621dede8-d77d-4014-83c9-43f9b8631f65)
 
+![diabetes_plot_6](https://github.com/user-attachments/assets/17b1ca12-4bfc-4a54-9ec2-8286c76b259b)
 
 
 ## Installation
@@ -94,7 +100,4 @@ The model achieved an accuracy of **X%** (replace with actual value). Various ev
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
