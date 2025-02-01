@@ -4,8 +4,8 @@ Smart Healthcare Assistant for Disease Prediction and Management
 Using Diabetes Dataset for Predictive Analytics
 
 
-![images](https://github.com/user-attachments/assets/02192c32-02af-495c-b74b-8229a20e3cee)
-![Image](https://github.com/user-attachments/assets/fcab426d-96e3-4b22-9cf0-cd1bc9643d6e)
+![images](https://github.com/user-attachments/assets/02192c32-02af-495c-b74b-8229a20e3cee) ![Image (1)](https://github.com/user-attachments/assets/db257086-c3c8-459b-8b1e-68275cd08530)
+
 
 
 ## Overview
